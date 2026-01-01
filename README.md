@@ -1,0 +1,2 @@
+# squishyLog
+capstone project
