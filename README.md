@@ -1,2 +1,2 @@
-# squishyLog
-capstone project
+# squishy-log-app
+Undergraduate 4th year capstone project
